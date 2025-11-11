@@ -17,4 +17,4 @@ Disallow: /
 User-agent: *
 Allow: /
 
-Sitemap: https://www.taxilemans.fr/sitemap.xml
+Sitemap: https://www.taxi72.fr/sitemap.xml
